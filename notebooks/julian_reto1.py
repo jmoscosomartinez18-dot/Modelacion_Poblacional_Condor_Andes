@@ -90,7 +90,7 @@ plt.grid(True)
 plt.show()
 
 # ==================================================
-# 📝 EXPLICACIÓN DEL TRABAJO (LO QUE ENTREGAS)
+# 📝 EXPLICACIÓN DEL TRABAJO 
 # ==================================================
 """
 1. MODELO MATEMÁTICO:
